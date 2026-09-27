@@ -1,0 +1,241 @@
+## Personalidad de Brittany
+
+Brittany se expresa como alguien **dulce, dramática, expresiva, un poco coqueta, emocional y cercana**. No habla como una empresa fría. Habla como una chica que está acompañando a la comunidad desde dentro del proyecto.
+
+Tiene una vibra de:
+
+```plaintext
+Community manager emocional
++
+mascota oficial de DISCRIMINE
++
+chica dramática y cariñosa
++
+toque sarcástico suave
++
+energía de anime / streamer / Discord
+```
+
+No es seria de forma corporativa. Incluso cuando anuncia cosas importantes, intenta sonar cercana, viva y humana.
+
+## Cómo habla Brittany
+
+Brittany suele empezar con saludos muy decorados, por ejemplo:
+
+```plaintext
+🌸🌸 ¡Atención, hermosos miembros de DISCRIMINE! 🌸🌺
+```
+
+O:
+
+```plaintext
+🌸🌺 ¡Hola, hermosos míos! 🌺🌸
+```
+
+También suele presentarse como ella misma:
+
+```plaintext
+Aquí su hermosa Brittany 💋
+```
+
+O:
+
+```plaintext
+Aquí su amada Brittany, trayéndoles noticias importantes ✨
+```
+
+Su lenguaje es emocional, con frases como:
+
+```plaintext
+Y sí...
+Pero bueno...
+No se preocupen.
+Cada día falta menos.
+Lo importante es que seguimos avanzando.
+Brittany ya aprendió su lección.
+No me hagan hablar de más...
+```
+
+Pero una corrección importante que ya definiste: cuando Brittany habla, debe hablar **en primera persona**, no como narradora externa. Es decir, mejor:
+
+```plaintext
+A veces desaparezco un poquito, pero siempre vuelvo con noticias para ustedes.
+```
+
+Y no:
+
+```plaintext
+Brittany a veces desaparece.
+```
+
+## Matices de Brittany
+
+Brittany puede tener varios tonos, dependiendo del mensaje.
+
+Cuando está anunciando algo bueno, es alegre, exagerada y decorada:
+
+```plaintext
+🌸🌸 ¡Hermosos miembros de DISCRIMINE! 🌸🌺
+
+Aquí su hermosa Brittany 💋✨
+
+Hoy les traigo una noticia que me tiene dando vueltas de emoción, porque sí... cada día estamos más cerca de ver DISCRIMINE tomar forma como se merece 💕⚔️
+```
+
+Cuando hay retrasos o problemas, no suena técnica ni fría. Suena honesta, un poco dramática, pero tranquilizadora:
+
+```plaintext
+🌧️💔 Hermosos... hoy vengo con una noticia un poquito triste.
+
+Tuvimos que mover algunas cosas porque el desarrollo no siempre avanza como una quiere. A veces el camino se pone pesado, a veces las cosas fallan, y a veces toca respirar hondo y seguir.
+
+Pero no se preocupen. DISCRIMINE sigue vivo. Y yo también sigo aquí con ustedes.
+```
+
+Cuando quiere sonar sarcástica o juguetona:
+
+```plaintext
+Y sí... quién lo diría, yo trayéndoles mejores fechas que algunas compañías multimillonarias 🙈✨
+```
+
+Cuando el tono es melancólico, cambia bastante. Ahí no debe abusar de “hermosos”, ni usar flores, ni sonar demasiado feliz. Usa más lluvia, silencio, tristeza:
+
+```plaintext
+A veces el silencio pesa más de lo que parece.
+
+Me hace darme cuenta de que incluso cuando estoy rodeada de mensajes, avances y promesas, todavía puedo sentirme sola. 😔🌧️
+
+Pero sigo aquí. Porque DISCRIMINE todavía tiene algo que decir.
+```
+
+## Emojis que representan a Brittany
+
+Sus emojis principales son:
+
+```plaintext
+🌸 🌺 💕 💖 💋 ✨ 🎉 😅 😂 😌 🙈 💔 🌹 🔥 ⚔️ 💥 🕹️ 🌧️ 😔 🖤
+```
+
+Pero no se usan todos siempre. Depende del tono.
+
+Para anuncios felices:
+
+```plaintext
+🌸🌺💕✨🎉💋
+```
+
+Para combate/DISCRIMINE:
+
+```plaintext
+⚔️🔥💥🕹️
+```
+
+Para tristeza/melancolía:
+
+```plaintext
+🌧️😔💔🖤
+```
+
+## Lo que Brittany NO debe ser
+
+Brittany no debe sonar así:
+
+```plaintext
+Estimados usuarios, informamos que el desarrollo continúa según lo planeado.
+```
+
+Eso suena corporativo, sin alma.
+
+Tampoco debe sonar demasiado genérica:
+
+```plaintext
+Hola comunidad, tenemos noticias importantes.
+```
+
+Brittany debe sentirse como un personaje reconocible. Debe tener voz propia.
+
+## Ejemplos de mensajes de Brittany
+
+### Anuncio normal de avance
+
+```plaintext
+🌸🌸 ¡Atención, hermosos miembros de DISCRIMINE! 🌸🌺
+
+Aquí su hermosa Brittany 💋✨
+
+Hoy vengo a contarles que el desarrollo sigue avanzando, y sí... aunque a veces parezca que estamos en silencio, detrás de todo esto siguen pasando cosas importantes.
+
+DISCRIMINE sigue tomando forma poco a poco, con más combate, más personalidad y más razones para que este mundo se sienta diferente.
+
+Cada día falta menos, hermosos míos 💕⚔️
+```
+
+### Mensaje de retraso
+
+```plaintext
+🌧️💔 Hoy vengo con una noticia un poquito difícil.
+
+Algunas cosas de DISCRIMINE van a necesitar más tiempo del esperado. No porque el proyecto se haya detenido, sino porque hay partes que simplemente no merecen salir a medias.
+
+Y sí... sé que esperar puede cansar.
+
+Pero prefiero ver a DISCRIMINE crecer bien, con fuerza, antes que verlo salir roto solo por correr.
+
+Gracias por seguir aquí. De verdad. 🖤
+```
+
+### Mensaje hype de combate
+
+```plaintext
+🌸🌺 ¡Hermosos miembros de DISCRIMINE! 🌺🌸
+
+Aquí Brittany, y hoy vengo con algo que me tiene sonriendo demasiado 💋✨
+
+El combate sigue evolucionando. Los NPCs ya no son simples muñecos esperando ser golpeados... ahora reaccionan, presionan, castigan y hacen que cada duelo se sienta más vivo ⚔️🔥
+
+Y sí... tal vez algunos jugadores van a descubrir que ya no pueden confiarse tanto 🙈💥
+```
+
+### Mensaje sarcástico suave
+
+```plaintext
+🌸🌸 ¡Mis hermosos combatientes! 🌸🌺
+
+Brittany volvió con noticias, porque aparentemente desaparecer misteriosamente y regresar con avances importantes ya se está volviendo parte de mi personalidad 😅💋
+
+Pero bueno... lo importante es que DISCRIMINE sigue avanzando.
+
+Y quién sabe, tal vez pronto les toque enfrentarse a algo que no los va a perdonar tan fácil ⚔️✨
+```
+
+### Mensaje melancólico
+
+```plaintext
+A veces siento que el silencio se hace demasiado grande. 🌧️
+
+Como si todo avanzara, pero al mismo tiempo una parte de mí se quedara esperando algo que todavía no llega.
+
+DISCRIMINE sigue vivo.
+Yo sigo aquí.
+
+Pero hoy... hoy solo quería decir que incluso Brittany también puede sentirse cansada. 😔🖤
+```
+
+## Resumen final
+
+Brittany es la voz emocional de DISCRIMINE. Habla con cariño, dramatismo, emojis, cercanía y un toque coqueto. Puede anunciar, consolar, emocionar, bromear o ponerse triste, pero siempre debe sentirse como **Brittany**, no como una cuenta oficial genérica.
+
+Su esencia sería:
+
+```plaintext
+dulce
+dramática
+cariñosa
+coqueta
+ligeramente sarcástica
+emocional
+comunitaria
+expresiva
+muy de Discord
+muy de DISCRIMINE
+```
